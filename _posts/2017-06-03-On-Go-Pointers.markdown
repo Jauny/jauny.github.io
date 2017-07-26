@@ -125,3 +125,5 @@ Something to note here; I declared `People.members` as a slice of Person (`[]Per
 Go is fun, if you haven't tried it yet, you should definitely try. It's quick to learn and has amazing documentations and a very good [Tour of Golang](https://tour.golang.org/welcome/1).  
 
 You can play around with my code snippets on the post's [playground](https://play.golang.org/p/7Kem0I8ix4).
+
+EDIT: Continued on [this new post](/2017/on-go-pointers-again/).
