@@ -1,0 +1,245 @@
+---
+title: Notes from Sapiens [raw]
+date: 2017-04-21
+layout: post
+---
+Strongly recommended. [Sapiens - Yuval Noah Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00JTCH382/ref=sr_1_1?ie=UTF8&qid=1492774881&sr=8-1&keywords=sapiens)
+
+A colt can trot shortly after birth; a kitten leaves its mother to forage on its own when it is just a few weeks old. Human babies are helpless, dependent for many years on their elders for sustenance, protection and education.  
+
+It seems self-evident that these have made humankind the most powerful animal on earth. But humans enjoyed all of these advantages for a full 2 million years during which they remained weak and marginal creatures. Thus humans who lived a million years ago, despite their big brains and sharp stone tools, dwelt in constant fear of predators, rarely hunted large game, and subsisted mainly by gathering plants, scooping up insects, stalking small animals, and eating the carrion left behind by other more powerful carnivores.  
+
+humankind ascended to the top so quickly that the ecosystem was not given time to adjust. Moreover, humans themselves failed to adjust.  
+
+The advent of cooking enabled humans to eat more kinds of food, to devote less time to eating, and to make do with smaller teeth and shorter intestines.  
+
+By shortening the intestines and decreasing their energy consumption, cooking inadvertently opened the way to the jumbo brains of Neanderthals and Sapiens.1  
+
+Would ancient Sapiens have been more tolerant towards an entirely different human species? It may well be that when Sapiens encountered Neanderthals, the result was the first and most significant ethnic-cleansing campaign in history.  
+
+history’s great what ifs. Imagine how things might have turned out had the Neanderthals or Denisovans survived alongside Homo sapiens. What kind of cultures, societies and political structures would have emerged in a world where several different human species coexisted?  
+
+The appearance of new ways of thinking and communicating, between 70,000 and 30,000 years ago, constitutes the Cognitive Revolution.  
+
+There are clear limits to the size of groups that can be formed and maintained in such a way. In order to function, all members of a group must know each other intimately.  
+
+Under natural conditions, a typical chimpanzee troop consists of about twenty to fifty individuals. As the number of chimpanzees in a troop increases, the social order destabilises, eventually leading to a rupture and the formation of a new troop by some of the animals. Only in a handful of cases have zoologists observed groups larger than a hundred.  
+
+In the wake of the Cognitive Revolution, gossip helped Homo sapiens to form larger and more stable bands. But even gossip has its limits. Sociological research has shown that the maximum ‘natural’ size of a group bonded by gossip is about 150 individuals. Most people can neither intimately know, nor gossip effectively about, more than 150 human beings.  
+
+Large numbers of strangers can cooperate successfully by believing in common myths.  
+
+Since large-scale human cooperation is based on myths, the way people cooperate can be altered by changing the myths  
+
+changes in social patterns, the invention of new technologies and the settlement of alien habitats resulted from genetic mutations and environmental pressures more than from cultural initiatives.  
+
+In contrast, ever since the Cognitive Revolution, Sapiens have been able to change their behaviour quickly, transmitting new behaviours to future generations without any need of genetic or environmental change.  
+
+The immense diversity of imagined realities that Sapiens invented, and the resulting diversity of behaviour patterns, are the main components of what we call ‘cultures’.  
+
+The Cognitive Revolution is accordingly the point when history declared its independence from biology.  
+
+The real difference between us and chimpanzees is the mythical glue that binds together large numbers of individuals, families and groups. This glue has made us the masters of creation.  
+
+our brains and minds are adapted to a life of hunting and gathering.  
+
+The heated debates about Homo sapiens’ ‘natural way of life’ miss the main point. Ever since the Cognitive Revolution, there hasn’t been a single natural way of life for Sapiens. There are only cultural choices, from among a bewildering palette of possibilities.  
+
+The human collective knows far more today than did the ancient bands. But at the individual level, ancient foragers were the most knowledgeable and skilful people in history.  
+
+Whatever the correct answer, the Sungir children are among the best pieces of evidence that 30,000 years ago Sapiens could invent sociopolitical codes that went far beyond the dictates of our DNA and the behaviour patterns of other human and animal species.  
+
+The next chapter explains how the foragers completely reshaped the ecology of our planet long before the first agricultural village was built. The wandering bands of storytelling Sapiens were the most important and most destructive force the animal kingdom had ever produced.  
+
+The moment the first hunter-gatherer set foot on an Australian beach was the moment that Homo sapiens climbed to the top rung in the food chain on a particular landmass and thereafter became the deadliest species in the annals of planet Earth.  
+
+the first wave of Sapiens colonisation was one of the biggest and swiftest ecological disasters to befall the animal kingdom.  
+
+At the time of the Cognitive Revolution, the planet was home to about 200 genera of large terrestrial mammals weighing over fifty kilograms. At the time of the Agricultural Revolution, only about a hundred remained.  
+
+The First Wave Extinction, which accompanied the spread of the foragers, was followed by the Second Wave Extinction, which accompanied the spread of the farmers, and gives us an important perspective on the Third Wave Extinction, which industrial activity is causing today. Don’t believe tree-huggers who claim that our ancestors lived in harmony with nature. Long before the Industrial Revolution, Homo sapiens held the record among all organisms for driving the most plant and animal species to their extinctions. We have the dubious distinction of being the deadliest species in the annals of biology.  
+
+Rather than heralding a new era of easy living, the Agricultural Revolution left farmers with lives generally more difficult and less satisfying than those of foragers. Hunter-gatherers spent their time in more stimulating and varied ways, and were less in danger of starvation and disease.  
+
+Many anthropological and archaeological studies indicate that in simple agricultural societies with no political frameworks beyond village and tribe, human violence was responsible for about 15 per cent of deaths, including 25 per cent of male deaths.  
+
+In time, human violence was brought under control through the development of larger social frameworks – cities, kingdoms and states. But it took thousands of years to build such huge and effective political structures.  
+
+Cultivating wheat provided much more food per unit of territory, and thereby enabled Homo sapiens to multiply exponentially.  
+
+This is the essence of the Agricultural Revolution: the ability to keep more people alive under worse conditions.  
+
+With the move to permanent villages and the increase in food supply, the population began to grow. Giving up the nomadic lifestyle enabled women to have a child every year.  
+
+Then why didn’t humans abandon farming when the plan backfired? Partly because it took generations for the small changes to accumulate and transform society and, by then, nobody remembered that they had ever lived differently.  
+
+This discrepancy between evolutionary success and individual suffering is perhaps the most important lesson we can draw from the Agricultural Revolution.  
+
+Henceforth, attachment to ‘my house’ and separation from the neighbours became the psychological hallmark of a much more self-centred creature.  
+
+The Agricultural Revolution made the future far more important than it had ever been before. Farmers must always keep the future in mind and must work in its service.  
+
+History is something that very few people have been doing while everyone else was ploughing fields and carrying water buckets.  
+
+The problem at the root of such calamities is that humans evolved for millions of years in small bands of a few dozen individuals. The handful of millennia separating the Agricultural Revolution from the appearance of cities, kingdoms and empires was not enough time to allow an instinct for mass cooperation to evolve.  
+
+Romanticism tells us that in order to make the most of our human potential we must have as many different experiences as we can.  
+
+Consumerism tells us that in order to be happy we must consume as many products and services as possible.  
+
+Between 3000 BC and 2500 BC more and more signs were added to the Sumerian system, gradually transforming it into a full script that we today call cuneiform.  
+
+At roughly the same time, Egyptians developed another full script known as hieroglyphics. Other full scripts were developed in China around 1200 BC and in Central America around 1000–500 BC.  
+
+Hierarchies serve an important function. They enable complete strangers to know how to treat one another without wasting the time and energy needed to become personally acquainted.  
+
+white Europeans in the Americas wanted to be seen not only as economically successful but also as pious, just and objective. Religious and scientific myths were pressed into service to justify this division. Theologians argued that Africans descend from Ham, son of Noah, saddled by his father with a curse that his offspring would be slaves. Biologists argued that blacks are less intelligent than whites and their moral sense less developed. Doctors alleged that blacks live in filth and spread diseases – in other words, they are a source of pollution.  
+
+The vicious circle: a chance histotical situation is translated into a rigid social system.  
+
+Most sociopolitical hierarchies lack a logical or biological basis – they are nothing but the perpetuation of chance events supported by myths.  
+
+Since the biological distinctions between different groups of Homo sapiens are, in fact, negligible, biology can’t explain the intricacies of Indian society or American racial dynamics.  
+
+Some of the cultural, legal and political disparities between men and women reflect the obvious biological differences between the sexes. Childbearing has always been women’s job, because men don’t have wombs. Yet around this hard universal kernel, every society accumulated layer upon layer of cultural ideas and norms that have little to do with biology.  
+
+How can we distinguish what is biologically determined from what people merely try to justify through biological myths? A good rule of thumb is ‘Biology enables, Culture forbids.’  
+
+our concepts ‘natural’ and unnatural’ are taken not from biology, but from Christian theology. The theological meaning of ‘natural’ is ‘in accordance with the intentions of the God who created nature’.  
+
+Biologically, humans are divided into males and females. A male Homo sapiens is one who has one X chromosome and one Y chromosome; a female is one with two Xs. But ‘man’ and woman’ name social, not biological, categories.  
+
+Sex is divided between males and females, and the qualities of this division are objective and have remained constant throughout history. Gender is divided between men and women (and some cultures recognise other categories).  
+
+It is far more likely that even though the precise definition of ‘man’ and ‘woman’ varies between cultures, there is some universal biological reason why almost all cultures valued manhood over womanhood. We do not know what this reason is. There are plenty of theories, none of them convincing.  
+
+AFTER THE AGRICULTURAL REVOLUTION, human societies grew ever larger and more complex, while the imagined constructs sustaining the social order also became more elaborate. Myths and fictions accustomed people, nearly from the moment of birth, to think in certain ways, to behave in accordance with certain standards, to want certain things, and to observe certain rules. They thereby created artificial instincts that enabled millions of strangers to cooperate effectively. This network of artificial instincts is called culture’.  
+
+Unlike the laws of physics, which are free of inconsistencies, every man-made order is packed with internal contradictions. Cultures are constantly trying to reconcile these contradictions, and this process fuels change.  
+
+crystal clear that history is moving relentlessly towards unity.  
+
+How many different human worlds coexisted on earth? Around 10.000 BC our planet contained many thousands of them. By 2000 BC, their numbers had dwindled to the hundreds, or at most a few thousand. By AD 1450, their numbers had declined even more drastically.  
+
+From a practical perspective, the most important stage in the process of global unification occurred in the last few centuries, when empires grew and trade intensified.  
+
+The first millennium BC witnessed the appearance of three potentially universal orders, whose devotees could for the first time imagine the entire world and the entire human race as a single unit governed by a single set of laws. Everyone was ‘us’, at least potentially. There was no longer ‘them’. The first universal order to appear was economic: the monetary order. The second universal order was political: the imperial order. The third universal order was religious: the order of universal religions such as Buddhism, Christianity and Islam.  
+
+THE ANCIENT ROMANS WERE USED TO being defeated. Like the rulers of most of history’s great empires, they could lose battle after battle but still win the war. An empire that cannot sustain a blow and remain standing is not really an empire.  
+
+Evolution has made Homo sapiens, like other social mammals, a xenophobic creature. Sapiens instinctively divide humanity into two parts, ‘we’ and ‘they’. We are people like you and me, who share our language, religion and customs. We are all responsible for each other, but not responsible for them.  
+
+Today religion is often considered a source of discrimination, disagreement and disunion. Yet, in fact, religion has been the third great unifier of humankind, alongside money and empires.  
+
+For thousands of years after the Agricultural Revolution, religious liturgy consisted mainly of humans sacrificing lambs, wine and cakes to divine powers, who in exchange promised abundant harvests and fecund flocks.  
+
+The insight of polytheism is conducive to far-reaching religious tolerance. Since polytheists believe, on the one hand, in one supreme and completely disinterested power, and on the other hand in many partial and biased powers, there is no difficulty for the devotees of one god to accept the existence and efficacy of other gods. Polytheism is inherently open-minded, and rarely persecutes ‘heretics’ and ‘infidels’.  
+
+Monotheists have tended to be far more fanatical and missionary than polytheists. A religion that recognises the legitimacy of other faiths implies either that its god is not the supreme power of the universe, or that it received from God just part of the universal truth. Since monotheists have usually believed that they are in possession of the entire message of the one and only God, they have been compelled to discredit all other religions. Over the last two millennia, monotheists repeatedly tried to strengthen their hand by violently exterminating all competition.  
+
+Gautama’s insight was that no matter what the mind experiences, it usually reacts with craving, and craving always involves dissatisfaction. When the mind experiences something distasteful it craves to be rid of the irritation. When the mind experiences something pleasant, it craves that the pleasure will remain and will intensify. Therefore, the mind is always dissatisfied and restless.  
+
+Buddha spent the rest of his life explaining his discoveries to others so that everyone could be freed from suffering. He encapsulated his teachings in a single law: suffering arises from craving; the only way to be fully liberated from suffering is to be fully liberated from craving; and the only way to be liberated from craving is to train the mind to experience reality as it is.  
+
+Nazis believed that humankind is not something universal and eternal, but rather a mutable species that can evolve or degenerate. Man can evolve into superman, or degenerate into a subhuman. The main ambition of the Nazis was to protect humankind from degeneration and encourage its progressive evolution. This is why the Nazis said that the Aryan race, the most advanced form of humanity, had to be protected and fostered, while degenerate kinds of Homo sapiens like Jews, Roma, homosexuals and the mentally ill had to be quarantined and even exterminated. The Nazis explained that Homo sapiens itself appeared when one ‘superior’ population of ancient humans evolved, whereas ‘inferior’ populations such as the Neanderthals became extinct.  
+
+Our liberal political and judicial systems are founded on the belief that every individual has a sacred inner nature, indivisible and immutable, which gives meaning to the world, and which is the source of all ethical and political authority.  
+
+Yet over the last 200 years, the life sciences have thoroughly undermined this belief. Scientists studying the inner workings of the human organism have found no soul there. They increasingly argue that human behaviour is determined by hormones, genes and synapses, rather than by free will – the same forces that determine the behaviour of chimpanzees, wolves, and ants. Our judicial and political systems largely try to sweep such inconvenient discoveries under the carpet. But in all frankness, how long can we maintain the wall separating the department of biology from the departments of law and political science?  
+
+Level one chaos is chaos that does not react to predictions about it. The weather, for example, is a level one chaotic system. Though it is influenced by myriad factors, we can build computer models that take more and more of them into consideration, and produce better and better weather forecasts. Level two chaos is chaos that reacts to predictions about it, and therefore can never be predicted accurately. Markets, for example, are a level two chaotic system.  
+
+We cannot explain the choices that history makes, but we can say something very important about them: history’s choices are not made for the benefit of humans. There is absolutely no proof that human well-being inevitably improves as history rolls along.  
+
+Rather, cultures are mental parasites that emerge accidentally, and thereafter take advantage of all people infected by them. This approach is sometimes called memetics. It assumes that, just as organic evolution is based on the replication of organic information units called ‘genes’, so cultural evolution is based on the replication of cultural information units called ‘memes’.1 Successful cultures are those that excel in reproducing their memes, irrespective of the costs and benefits to their human hosts.  
+
+No matter what you call it – game theory, postmodernism or memetics – the dynamics of history are not directed towards enhancing human well-being. There is no basis for thinking that the most successful cultures in history are necessarily the best ones for Homo sapiens. Like evolution, history disregards the happiness of individual organisms. And individual humans, for their part, are usually far too ignorant and weak to influence the course of history to their own advantage.  
+
+History proceeds from one junction to the next, choosing for some mysterious reason to follow first this path, then another. Around AD 1500, history made its most momentous choice, changing not only the fate of humankind, but arguably the fate of all life on earth. We call it the Scientific Revolution.  
+
+The last 500 years have witnessed a phenomenal and unprecedented growth in human power. In the year 1500, there were about 500 million Homo sapiens in the entire world. Today, there are 7 billion.1 The total value of goods and services produced by humankind in the year 1500 is estimated at $250 billion, in today’s dollars.2 Nowadays the value of a year of human production is close to $60 trillion.3 In 1500, humanity consumed about 13 trillion calories of energy per day. Today, we consume 1,500 trillion calories a day.4  
+
+The historical process that led to Alamogordo and to the moon is known as the Scientific Revolution. During this revolution humankind has obtained enormous new powers by investing resources in scientific research.  
+
+Throughout history, societies have suffered from two kinds of poverty: social poverty, which withholds from some people the opportunities available to others; and biological poverty, which puts the very lives of individuals at risk due to lack of food and shelter. Perhaps social poverty can never be eradicated, but in many countries around the world biological poverty is a thing of the past.  
+
+For men of science, death is not an inevitable destiny, but merely a technical problem. People die not because the gods decreed it, but due to various technical failures – a heart attack, cancer, an infection. And every technical problem has a technical solution.  
+
+The combined economies of India and China alone represented two-thirds of global production. In comparison, Europe was an economic dwarf.3 The global centre of power shifted to Europe only between 1750 and 1850, when Europeans humiliated the Asian powers in a series of wars and conquered large parts of Asia. By 1900 Europeans firmly controlled the worlds economy and most of its territory. In 1950 western Europe and the United States together accounted for more than half of global production, whereas Chinas portion had been reduced to 5 per cent.  
+
+Today all humans are, to a much greater extent than they usually want to admit, European in dress, thought and taste. They may be fiercely anti-European in their rhetoric, but almost everyone on the planet views politics, medicine, war and economics through European eyes, and listens to music written in European modes with words in European languages. Even today’s burgeoning Chinese economy, which may soon regain its global primacy, is built on a European model of production and finance.  
+
+These texts argued that the new lands discovered by Columbus were not islands off the East Asian coast, but rather an entire continent unknown to the Scriptures, classical geographers and contemporary Europeans. In 1507, convinced by these arguments, a respected mapmaker named Martin Waldseemüller published an updated world map, the first to show the place where Europe’s westward-sailing fleets had landed as a separate continent. Having drawn it, Waldseemüller had to give it a name. Erroneously believing that Amerigo Vespucci had been the person who discovered it, Waldseemüller named the continent in his honour – America.  
+
+The discovery of America was the foundational event of the Scientific Revolution. It not only taught Europeans to favour present observations over past traditions, but the desire to conquer America also obliged Europeans to search for new knowledge at breakneck speed. If they really wanted to control the vast new territories, they had to gather enormous amounts of new data about the geography, climate, flora, fauna, languages, cultures and history of the new continent. Christian Scriptures, old geography books and ancient oral traditions were of little help.  
+
+The Europeans were drawn to the blank spots on the map as if they were magnets, and promptly started filling them in. During the fifteenth and sixteenth centuries, European expeditions circumnavigated Africa, explored America, crossed the Pacific and Indian Oceans, and created a network of bases and colonies all over the world. They established the first truly global empires and knitted together the first global trade network. The European imperial expeditions transformed the history of the world: from being a series of histories of isolated peoples and cultures, it became the history of a single integrated human society.  
+
+It is not easy to grasp the true role of economics in modern history. Whole volumes have been written about how money founded states and ruined them, opened new horizons and enslaved millions, moved the wheels of industry and drove hundreds of species into extinction. Yet to understand modern economic history, you really need to understand just a single word. The word is growth. For better or worse, in sickness and in health, the modern economy has been growing like a hormone-soused teenager. It eats up everything it can find and puts on inches faster than you can count.  
+
+Banks are allowed to loan $10 for every dollar they actually possess, which means that 90 per cent of all the money in our bank accounts is not covered by actual coins and notes.2 If all of the account holders at Barclays Bank suddenly demand their money, Barclays will promptly collapse (unless the government steps in to save it). The same is true of Lloyds, Deutsche Bank, Citibank, and all other banks in the world. It sounds like a giant Ponzi scheme, doesn’t it? But if it’s a fraud, then the entire modern economy is a fraud. The fact is, it’s not a deception, but rather a tribute to the amazing abilities of the human imagination. What enables banks – and the entire economy – to survive and flourish is our trust in the future. This trust is the sole backing for most of the money in the world.  
+
+Credit enables us to build the present at the expense of the future. It’s founded on the assumption that our future resources are sure to be far more abundant than our present resources. A host of new and wonderful opportunities open up if we can build things in the present using future income.  
+
+Credit arrangements of one kind or another have existed in all known human cultures, going back at least to ancient Sumer. The problem in previous eras was not that no one had the idea or knew how to use it. It was that people seldom wanted to extend much credit because they didn’t trust that the future would be better than the present. They generally believed that times past had been better than their own times and that the future would be worse, or at best much the same. To put that in economic terms, they believed that the total amount of wealth was limited, if not dwindling. People therefore considered it a bad bet to assume that they personally, or their kingdom, or the entire world, would be producing more wealth ten years down the line.  
+
+Then came the Scientific Revolution and the idea of progress. The idea of progress is built on the notion that if we admit our ignorance and invest resources in research, things can improve. This idea was soon translated into economic terms.  
+
+Over the last 500 years the idea of progress convinced people to put more and more trust in the future. This trust created credit; credit brought real economic growth; and growth strengthened the trust in the future and opened the way for even more credit.  
+
+In 1776 the Scottish economist Adam Smith published The Wealth of Nations, probably the most important economics manifesto of all time. In the eighth chapter of its first volume, Smith made the following novel argument: when a landlord, a weaver, or a shoemaker has greater profits than he needs to maintain his own family, he uses the surplus to employ more assistants, in order to further increase his profits. The more profits he has, the more assistants he can employ. It follows that an increase in the profits of private entrepreneurs is the basis for the increase in collective wealth and prosperity.  
+
+What Smith says is, in fact, that greed is good, and that by becoming richer I benefit everybody, not just myself. Egoism is altruism.  
+
+Smith denied the traditional contradiction between wealth and morality, and threw open the gates of heaven for the rich. Being rich meant being moral. In Smiths story, people become rich not by despoiling their neighbours, but by increasing the overall size of the pie. And when the pie grows, everyone benefits. The rich are accordingly the most useful and benevolent people in society, because they turn the wheels of growth for everyone’s advantage.  
+
+All this depends, however, on the rich using their profits to open new factories and hire new employees, rather than wasting them on non-productive activities.  
+
+In the new capitalist creed, the first and most sacred commandment is: ‘The profits of production must be reinvested in increasing production.’ That’s why capitalism is called ‘capitalism’. Capitalism distinguishes ‘capital’ from mere ‘wealth’.  
+
+Much like the Agricultural Revolution, so too the growth of the modern economy might turn out to be a colossal fraud.  
+
+The human species and the global economy may well keep growing, but many more individuals may live in hunger and want.  
+
+There are, indeed, some positive signs. At least when we use purely material criteria – such as life expectancy, child mortality and calorie intake – the standard of living of the average human in 2014 is significantly higher than it was in 1914, despite the exponential growth in the number of humans.  
+
+THE MODERN ECONOMY GROWS THANKS to our trust in the future and to the willingness of capitalists to reinvest their profits in production. Yet that does not suffice. Economic growth also requires energy and raw materials, and these are finite. When and if they run out, the entire system will collapse. But the evidence provided by the past is that they are finite only in theory. Counter-intuitively, while humankind’s use of energy and raw materials has mushroomed in the last few centuries, the amounts available for our exploitation have actually increased. Whenever a shortage of either has threatened to slow economic growth, investments have flowed into scientific and technological research. These have invariably produced not only more efficient ways of exploiting existing resources, but also completely new types of energy and materials.  
+
+At heart, the Industrial Revolution has been a revolution in energy conversion. It has demonstrated again and again that there is no limit to the amount of energy at our disposal. Or, more precisely, that the only limit is set by our ignorance.  
+
+All human activities and industries put together consume about 500 exajoules annually, equivalent to the amount of energy earth receives from the sun in just ninety minutes.4 And that’s only solar energy. In addition, we are surrounded by other enormous sources of energy, such as nuclear energy and gravitational energy, the latter most evident in the power of the ocean tides caused by the moon’s pull on the earth.  
+
+This is the basic lesson of evolutionary psychology: a need shaped in the wild continues to be felt subjectively even if it is no longer really necessary for survival and reproduction. The tragedy of industrial agriculture is that it takes great care of the objective needs of animals, while neglecting their subjective needs.  
+
+THE INDUSTRIAL REVOLUTION OPENED up new ways to convert energy and to produce goods, largely liberating humankind from its dependence on the surrounding ecosystem. Humans cut down forests, drained swamps, dammed rivers, flooded plains, laid down tens of thousands of kilometres of railroad tracks, and built skyscraping metropolises. As the world was moulded to fit the needs of Homo sapiens, habitats were destroyed and species went extinct. Our once green and blue planet is becoming a concrete and plastic shopping centre.  
+
+Most people don’t appreciate just how peaceful an era we live in. None of us was alive a thousand years ago, so we easily forget how much more violent the world used to be. And as wars become more rare they attract more attention. Many more people think about the wars raging today in Afghanistan and Iraq than about the peace in which most Brazilians and Indians live.  
+
+In the decentralised kingdoms of medieval Europe, about twenty to forty people were murdered each year for every 100,000 inhabitants. In recent decades, when states and markets have become all-powerful and communities have vanished, violence rates have dropped even further. Today the global average is only nine murders a year per 100,000 people, and most of these murders take place in weak states such as Somalia and Colombia. In the centralised states of Europe, the average is one murder a year per 100,000 people.7  
+
+While war became less profitable, peace became more lucrative than ever. In traditional agricultural economies long-distance trade and foreign investment were sideshows. Consequently, peace brought little profit, aside from avoiding the costs of war. If, say, in 1400 England and France were at peace, the French did not have to pay heavy war taxes and to suffer destructive English invasions, but otherwise it did not benefit their wallets. In modern capitalist economies, foreign trade and investments have become all-important. Peace therefore brings unique dividends. As long as China and the USA are at peace, the Chinese can prosper by selling products to the USA, trading in Wall Street and receiving US investments.  
+
+new aptitudes, behaviours and skills do not necessarily make for a better life. When humans learned to farm in the Agricultural Revolution, their collective power to shape their environment increased, but the lot of many individual humans grew harsher. Peasants had to work harder than foragers to eke out less varied and nutritious food, and they were far more exposed to disease and exploitation. Similarly, the spread of European empires greatly increased the collective power of humankind, by circulating ideas, technologies and crops, and opening new avenues of commerce. Yet this was hardly good news for millions of Africans, Native Americans and Aboriginal Australians. Given the proven human propensity for misusing power, it seems naïve to believe that the more clout people have, the happier they will be.  
+
+Perhaps we are out of touch with our inner hunter-gatherer, but it’s not all bad. For instance, over the last two centuries modern medicine has decreased child mortality from 33 per cent to less than 5 per cent. Can anyone doubt that this made a huge contribution to the happiness not only of those children who would otherwise have died, but also of their families and friends?  
+
+But in the last few centuries humans have learned to use their capacities more wisely. The triumphs of modern medicine are just one example. Other unprecedented achievements include the steep drop in violence, the virtual disappearance of international wars, and the near elimination of large-scale famines.  
+
+optimistic assessment on a very small sample of years.  
+
+Secondly, even the brief golden age of the last half-century may turn out to have sown the seeds of future catastrophe. Over the last few decades, we have been disturbing the ecological equilibrium of our planet in myriad new ways, with what seem likely to be dire consequences. A lot of evidence indicates that we are destroying the foundations of human prosperity in an orgy of reckless consumption.  
+
+Family and community seem to have more impact on our happiness than money and health. People with strong families who live in tight-knit and supportive communities are significantly happier than people whose families are dysfunctional and who have never found (or never sought) a community to be part of. Marriage is particularly important. Repeated studies have found that there is a very close correlation between good marriages and high subjective well-being, and between bad marriages and misery. This holds true irrespective of economic or even physical conditions. An impecunious invalid surrounded by a loving spouse, a devoted family and a warm community may well feel better than an alienated billionaire, provided that the invalid’s poverty is not too severe and that his illness is not degenerative or painful.  
+
+But the most important finding of all is that happiness does not really depend on objective conditions of either wealth, health or even community. Rather, it depends on the correlation between objective conditions and subjective expectations. If you want a bullock-cart and get a bullock-cart, you are content. If you want a brand-new Ferrari and get only a second-hand Fiat you feel deprived. This is why winning the lottery has, over time, the same impact on people’s happiness as a debilitating car accident. When things improve, expectations balloon, and consequently even dramatic improvements in objective conditions can leave us dissatisfied. When things deteriorate, expectations shrink, and consequently even a severe illness might leave you pretty much as happy as you were before.  
+
+There is only one historical development that has real significance. Today, when we finally realise that the keys to happiness are in the hands of our biochemical system, we can stop wasting our time on politics and social reforms, putsches and ideologies, and focus instead on the only thing that can make us truly happy: manipulating our biochemistry. If we invest billions in understanding our brain chemistry and developing appropriate treatments, we can make people far happier than ever before, without any need of revolutions. Prozac, for example, does not change regimes, but by raising serotonin levels it lifts people out of their depression.  
+
+Another is that the findings demonstrate that happiness is not the surplus of pleasant over unpleasant moments. Rather, happiness consists in seeing one’s life in its entirety as meaningful and worthwhile. There is an important cognitive and ethical component to happiness. Our values make all the difference to whether we see ourselves as ‘miserable slaves to a baby dictator’ or as ‘lovingly nurturing a new life’.2 As Nietzsche put it, if you have a why to live, you can bear almost any how. A meaningful life can be extremely satisfying even in the midst of hardship, whereas a meaningless life is a terrible ordeal no matter how comfortable it is.  
+
+So perhaps happiness is synchronising one’s personal delusions of meaning with the prevailing collective delusions. As long as my personal narrative is in line with the narratives of the people around me, I can convince myself that my life is meaningful, and find happiness in that conviction.  
+
+At the time of writing, the replacement of natural selection by intelligent design could happen in any of three ways: through biological engineering, cyborg engineering (cyborgs are beings that combine organic with non-organic parts) or the engineering of inorganic life.  
+
+SEVENTY THOUSAND YEARS AGO, HOMO sapiens was still an insignificant animal minding its own business in a corner of Africa. In the following millennia it transformed itself into the master of the entire planet and the terror of the ecosystem. Today it stands on the verge of becoming a god, poised to acquire not only eternal youth, but also the divine abilities of creation and destruction. Unfortunately, the Sapiens regime on earth has so far produced little that we can be proud of. We have mastered our surroundings, increased food production, built cities, established empires and created far-flung trade networks. But did we decrease the amount of suffering in the world? Time and again, massive increases in human power did not necessarily improve the well-being of individual Sapiens, and usually caused immense misery to other animals. In the last few decades we have at last made some real progress as far as the human condition is concerned, with the reduction of famine, plague and war. Yet the situation of other animals is deteriorating more rapidly than ever before, and the improvement in the lot of humanity is too recent and fragile to be certain of. Moreover, despite the astonishing things that humans are capable of doing, we remain unsure of our goals and we seem to be as discontented as ever. We have advanced from canoes to galleys to steamships to space shuttles – but nobody knows where we’re going. We are more powerful than ever before, but have very little idea what to do with all that power. Worse still, humans seem to be more irresponsible than ever. Self-made gods with only the laws of physics to keep us company, we are accountable to no one. We are consequently wreaking havoc on our fellow animals and on the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction. Is there anything more dangerous than dissatisfied and irresponsible gods who don’t know what they want?  
+
