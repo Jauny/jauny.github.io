@@ -1,7 +1,7 @@
 ---
 title: Analaysis Paralysis
 layout: post
-date: 2017-04-28
+date: 2017-07-26
 ---
 When building software, one of the important thing is having a great vision and build a system that will survive and stay relevent as long as possible.  
 Because of that, before actually starting to write software, there is a long, important and necessary process of preparation that has to happen.  
