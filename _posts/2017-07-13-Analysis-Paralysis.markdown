@@ -1,5 +1,5 @@
 ---
-title: Analaysis Paralysis
+title: Analysis Paralysis
 layout: post
 date: 2017-07-13
 ---
