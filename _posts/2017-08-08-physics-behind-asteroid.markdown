@@ -125,6 +125,11 @@ var vessel = {
     accelerate: function() {
         this.speedx += this.acceleration * Math.cos(this.dir);
         this.speedy += this.acceleration * Math.sin(this.dir);
+    },
+
+    move: function() {
+        this.x += this.speedx;
+        this.y += this.speedy;
     }
 };
 
@@ -136,6 +141,7 @@ console.log(vessel.speedx, vessel.speedy);
 => 0.5, 0.86602540378445
 ```
 
-There you go! Now we have a way to calculate a force and how it affects our object's velocity (speedx and speedy). Everytime we accelerate, we add the impact of this force to the existing verlocity of the ship (`this.speedx += ...` and `this.speedy = ...`) and this updates it's overall speed and direction!
+There you go! Now we have a way to calculate a force and how it affects our object's velocity (speedx and speedy). Everytime we accelerate, we add the impact of this force to the existing verlocity of the ship (`this.speedx += ...` and `this.speedy += ...`) and this updates it's overall speed and direction!  
+Moving the object only requires to add `speedx` to `x` and `speedy` to `y`.
 
 {% include asteroids/asteroids-js.html %}
