@@ -22,6 +22,26 @@ def parse_csv(file_name):
     return notes
 
 
+def parse_txt(file_name):
+    """Open a txt file and return the notes object."""
+    notes = {
+        "link": "",
+        "notes": []
+    }
+    file = open(file_name, "r")
+    for item in enumerate(file):
+        i, line = item
+        if i == 0:  # get title
+            notes["title"] = line.split(" (")[0]
+            notes["author"] = line.split(" (")[-1].rstrip().rstrip(')')
+        elif i % 5 == 3:
+            notes["notes"].append(line.rstrip())
+
+    print(notes)
+    return notes
+
+
+
 def export_notes_to_post(notes, output):
     """Export notes to file."""
     date = today_date()
@@ -43,12 +63,20 @@ Raw Kindle notes for [{title} {author}]({link})\n\n
         output_file.write("%s  \n\n" % note)
 
 
-def generate_post_from_csv(input_target):
+def generate_post_from_notes(input_target):
     """Parse notes from input, export to output."""
-    notes = parse_csv(input_target)
+    if ".csv" in input_target:
+        notes = parse_csv(input_target)
+    elif ".txt" in input_target:
+        notes = parse_txt(input_target)
+    else:
+        return "not a supported format"
+
     title = "Notes-" + notes["title"].replace(" ", "-")
     output = "_posts/{}-{}.md".format(today_date(), title)
     export_notes_to_post(notes, output)
+
+    return "done"
 
 
 def today_date():
@@ -56,4 +84,4 @@ def today_date():
     return time.strftime("%Y-%m-%d")
 
 
-generate_post_from_csv("kindle_notes/secret_of_universe.csv")
+generate_post_from_notes("kindle_notes/rework.txt")
