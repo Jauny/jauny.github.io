@@ -6,6 +6,7 @@ permalink: /lol/
 When I'm bored, I try to build stuff as fast as possible. Most of those have been done in less than an hour, and have never been worked on again.  
 Just for lolz.  
 
+[Microwave](/microwave)  
 [10Print](/10print)  
 [Clocks](/clocks)  
 [Explosion](/explosion)  
