@@ -1,6 +1,7 @@
 """
 Parse a Kindle Notes csv and make it a Jekyll post.
 """
+import argparse
 import csv
 import time
 
@@ -41,7 +42,6 @@ def parse_txt(file_name):
     return notes
 
 
-
 def export_notes_to_post(notes, output):
     """Export notes to file."""
     date = today_date()
@@ -57,7 +57,7 @@ layout: post
 ---
 Raw Kindle notes for [{title} {author}]({link})\n\n
 """.format(
-    title=title, date=date, author=author, link=link))
+        title=title, date=date, author=author, link=link))
 
     for note in notes["notes"]:
         output_file.write("%s  \n\n" % note)
@@ -70,7 +70,8 @@ def generate_post_from_notes(input_target):
     elif ".txt" in input_target:
         notes = parse_txt(input_target)
     else:
-        return "not a supported format"
+        print "not a supported format"
+        return
 
     title = "Notes-" + notes["title"].replace(" ", "-")
     output = "_posts/{}-{}.md".format(today_date(), title)
@@ -84,4 +85,8 @@ def today_date():
     return time.strftime("%Y-%m-%d")
 
 
-generate_post_from_notes("kindle_notes/rework.txt")
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('filename')
+    args = parser.parse_args()
+    generate_post_from_notes("kindle_notes/{}".format(args.filename))
