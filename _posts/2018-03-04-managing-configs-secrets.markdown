@@ -3,8 +3,6 @@ title: Managing Configs and Secrets
 date: 2018-03-04
 layout: post
 ---
-
-# Managing Config and Secrets
 Although this post will use Flask for examples, this applies pretty much to any environment.
 
 ## Why do you need a config?
