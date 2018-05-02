@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Devbootcamp to Uber"
+date: 2017-03-14
 ---
 
 I hated my job.
