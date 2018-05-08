@@ -1,9 +1,8 @@
 ---
-title: Rails 5, Puma, NGINX, Ubuntu 16 with capistrano on Digital Ocean.
+title: Automated Deploys for Rails 5, Puma, NGINX, Ubuntu 16 with Capistrano on Digital Ocean.
 date: 2018-05-02
 layout: post
 ---
-# Rails 5, Puma, NGINX, Ubuntu 16 with capistrano on Digital Ocean.
 
 ## What is the problem
 1. Local and Prod work differently. Once you have a Rails app working locally, a lot of setup has to be done to get the app in production
